@@ -2,6 +2,7 @@
 
 1. ## **Atlas-Flix File Structure**
 
+```Files tree
 atlas-flix/
 ├── backend/
 │   ├── Dockerfile                   # Configuration for building the backend Docker image
@@ -65,7 +66,7 @@ atlas-flix/
     │   ├── SearchPage.png           # Wireframe mockup for the movie search page UI
     │   ├── MovieDetailPage.png      # Wireframe mockup for the movie detail page UI
     └── Project Proposal.md          # Detailed project proposal outlining goals, scope, and timeline
-
+```
 
 2. ## **Project Construction Steps (Backend-First Approach)**
 
